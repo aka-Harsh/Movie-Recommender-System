@@ -1,4 +1,4 @@
-# Movie-Recommender-System
+# Movie Recommender System 
 
 🛠️ This project contains a Movie Recommendations System that leverages techniques such as **TF-IDF (Term Frequency-Inverse Document Frequency) Vectorization, Cosine Similarity, and Collaborative Filtering**. It interacts with the movie database on user input and provides personalized recommendations for similar movies. <br>
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/51fa106a-8fbf-48c0-8438-166be657f275
 To run this project first clone this repository using
 
 ```bash
-  git clone 
+  git clone https://github.com/aka-Harsh/Movie-Recommender-System.git
 ```
 Locate this repository using terminal and then create a virtual enviroment and activate it
 
