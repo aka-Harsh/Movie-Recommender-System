@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/51fa106a-8fbf-48c0-8438-166be657f275
 
 ## Prerequisites
 
-Download the *Movies* data from 👉 [Movie Dataset](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3lmYVhyQjhqekgwWEFsQ3kyc284TTFzODh6Z3xBQ3Jtc0tsOC1WX3NtYzZtUkoyWmhoTl8xVnNOUDRDVnFIVF9RRTNXOGY4MlExZThwUS11c2h4cUg4S3E3cUxHb1lmV2pjRklRcHZKbDd3bjRUQUtLd1ZpUm1VX2FLYjRDVEExNTFTdklmYzN3aTFWTHdVcmtldw&q=https%3A%2F%2Ffiles.grouplens.org%2Fdatasets%2Fmovielens%2Fml-25m.zip&v=eyEabQRBMQA) and extract the folder and paste the movies.csv and credits.csv in the data folder.
+Download the *Movies* data from 👉 [Movie Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) and extract the folder and paste the movies.csv and credits.csv in the data folder.
 
 
 
